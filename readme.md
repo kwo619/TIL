@@ -1,1 +1,2 @@
-1/12 배운 것 정리
+# 1/12 TIL
+- git remote, git push, git status
